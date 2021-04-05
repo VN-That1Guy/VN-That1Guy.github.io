@@ -11,8 +11,6 @@ A collection of projects made from programming class
 
 ## Underwater Creatures*
 
-## Adopt-An-Insect*
-
 ## Shift Cipher*
 
 ## Trivia Game
