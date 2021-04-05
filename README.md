@@ -4,7 +4,7 @@ A collection of projects made from programming class
 *A collaborative work
 
 ## Adventure Game
-![Image of Adventure Game Submaria](https://github.com/VN-That1Guy/VN-That1Guy.github.io/blob/1aa3d6dd764c970de1d180f18985adc0c09d08a7/images/AdventureGame.jpg)
+![Image of Adventure Game Submaria](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/1aa3d6dd764c970de1d180f18985adc0c09d08a7/images/AdventureGame.jpg)
 This is a accumulation of everything that I have learned during my time in programming class applied in to this small C# programmed Adventure Game on the Console Interface.
 
 ## Study Application
