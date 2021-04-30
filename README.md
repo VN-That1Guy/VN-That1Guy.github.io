@@ -23,6 +23,15 @@ A console application about interacting with underwater creatures that further u
 ![Image of Shift Cipher](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/1aa3d6dd764c970de1d180f18985adc0c09d08a7/images/ShiftCypher.jpg)
 An application that encrypts and decrypts any input that the user gives.
 
+## Shift Cipher GUI
+![Image of Shift Cipher GUI version](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/main/images/SubstitutionCipherGUI.png)
+An easier accessible GUI version of the above application. You know, for the cool kidz!
+
 ## Trivia Game
 ![Image of Trivia Game](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/1aa3d6dd764c970de1d180f18985adc0c09d08a7/images/TriviaGame.jpg)
 Another console application that randomizes the orders that the questions are given and the answers as well. It is still about programmer knowledge.
+
+## Too Early Cant Think: An Explorable Areas GUI*
+![Image of TooEarlyCantThinkGUI](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/main/images/TooEarlyCantThinkGUI.png)
+Another Console Application translated into GUI form. No images are present, however.
+*Original Console Application version not shown here, but that version is a collaborative effort for sure!
