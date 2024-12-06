@@ -6,30 +6,35 @@ A collection of projects made from programming class
 # [Adventure Game](https://github.com/VN-That1Guy/AdventureGame-Submaria)
 ![Image of Adventure Game Submaria](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/1aa3d6dd764c970de1d180f18985adc0c09d08a7/images/AdventureGame.jpg)
 > This is a accumulation of everything that I have learned during my time in Programming I applied in to this small C# programmed Adventure Game on the Console Interface.
+
 Despite all the work I've done and going over a few videos and extra materials, this was not the final project for the class. That would be the Character Creator Application. I do wonder if the code still works on newer versions of C# or so.
 
 # [Project Bracken](https://github.com/VN-That1Guy/VN-BrackenCave-WPF)
 ![Image of Project Bracken-1](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-05%20002919.png)
 ![Image of Project Bracken-2](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-05%20003738.png)
 > This is another accumulation of everything that I have learned in Programming II applied to this Final Project for that class.
+
 This is the project where I think have understood on coding between a GUI and raw code. Coded this as Console Application first, then slowly started figuring out the user interface in this version.
 
 # [Oggle!](https://github.com/VN-That1Guy/VN-Oggle-WPF)
 ![Image of Oggle](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20044013.png)
 
 > A guessing game where you have to connect neighboring letters to form a word. Simple premise, hard to master.
+
 Getting this to work was a hassle but it took some fixing on some if statements to get the grid working, along with how it checks for the nearest neighoring letter.
 
 ## [Ordle](https://github.com/VN-That1Guy/VN-OrdleWPF)
 ![Image of Ordle](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20051338.png)
 
 > A game where you have to guess a correct 5 letter word.
+
 In the console version that I made before moving to the WPF, I learned about how I can manipulate or modify strings directly (e.g, Capitalizing a specific letter)
 
 ## [Character Creator App](https://github.com/VN-That1Guy/Character_Creator_App)
 ![Image of The Character Creator App](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20001229.png)
 
 > Make your own stickman
+
 I forgot to show this here back on 2021. This was a Final Project assignment for the first programming class. 
 
 ## [Nonsense Crafting](https://github.com/VN-That1Guy/WPF-CraftingSystem)
@@ -37,12 +42,14 @@ I forgot to show this here back on 2021. This was a Final Project assignment for
 ![Image of Shop menu](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20005448.png)
 
 > A WPF application about making things using items that do not make sense
+
 I made the inventory system too complicated in this one... passing instances between inventories and making items and currency finite for the shop took a lot of my time trying to fix the quirks and issues.
 
 ## [Card Games](https://github.com/VN-That1Guy/VN-CardGames)
 ![Image of Card Game Menu](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000318.png)
 
 > A console application that I tried my best in making a simple game from scratch, three card games coded around commonalities
+
 I had a hard time figuring out child classes since they didn't do what I thought they would do. Still, a lot of reuse and stuff regarding methods!
 
 ![Image of Card Game 1](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000338.png)
