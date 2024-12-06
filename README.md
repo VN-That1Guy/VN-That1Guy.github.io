@@ -1,5 +1,5 @@
 # Programming Portfolio of Vinh Nguyen
-A collection of projects made from programming class
+A collection of projects made from programming classes I and II
 
 *A collaborative work
 
@@ -14,7 +14,7 @@ Despite all the work I've done and going over a few videos and extra materials, 
 ![Image of Project Bracken-2](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-05%20003738.png)
 > This is another accumulation of everything that I have learned in Programming II applied to this Final Project for that class.
 
-This is the project where I think have understood on coding between a GUI and raw code. Coded this as Console Application first, then slowly started figuring out the user interface in this version.
+This is the project where I think have understood on coding between a GUI and raw code. Coded this as Console Application first, practicing object-oriented programming principals. Then I slowly started figuring out the user interface in this version.
 
 # [Oggle!](https://github.com/VN-That1Guy/VN-Oggle-WPF)
 ![Image of Oggle](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20044013.png)
@@ -44,6 +44,8 @@ I forgot to show this here back on 2021. This was a Final Project assignment for
 > A WPF application about making things using items that do not make sense
 
 I made the inventory system too complicated in this one... passing instances between inventories and making items and currency finite for the shop took a lot of my time trying to fix the quirks and issues.
+
+This was also the application where I try reading external files (implemented) and also tried writing external files from the application itself (not implemented, I did not get it to work)
 
 ## [Card Games](https://github.com/VN-That1Guy/VN-CardGames)
 ![Image of Card Game Menu](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000318.png)
