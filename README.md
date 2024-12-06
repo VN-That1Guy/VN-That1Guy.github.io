@@ -21,7 +21,7 @@ This is the project where I think have understood on coding between a GUI and ra
 
 > A guessing game where you have to connect neighboring letters to form a word. Simple premise, hard to master.
 
-Getting this to work was a hassle but it took some fixing on some if statements to get the grid working, along with how it checks for the nearest neighoring letter.
+Getting this to work was a hassle but it took some fixing on some if statements to get the grid working, along with how it checks for the nearest neighboring letter.
 
 ## [Ordle](https://github.com/VN-That1Guy/VN-OrdleWPF)
 ![Image of Ordle](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20051338.png)
