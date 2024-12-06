@@ -14,11 +14,14 @@ This is another accumulation of everything that I have learned in Programming II
 
 ## [Character Creator App](https://github.com/VN-That1Guy/Character_Creator_App)
 ![Image of The Character Creator App](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20001229.png)
+
 I forgot to show this here back on 2021. This was a Final Project assignment for the first programming class.
 
 ## [Card Games](https://github.com/VN-That1Guy/VN-CardGames)
 ![Image of Card Game Menu](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000318.png)
+
 A console application that I tried my best in making a simple game from scratch, three card games coded around commonalities
+
 ![Image of Card Game 1](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000338.png)
 ![Image of Card Game 2](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000349.png)
 ![Image of Card Game 3](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000407.png)
