@@ -5,7 +5,24 @@ A collection of projects made from programming class
 
 ## [Adventure Game](https://github.com/VN-That1Guy/AdventureGame-Submaria)
 ![Image of Adventure Game Submaria](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/1aa3d6dd764c970de1d180f18985adc0c09d08a7/images/AdventureGame.jpg)
-This is a accumulation of everything that I have learned during my time in programming class applied in to this small C# programmed Adventure Game on the Console Interface.
+This is a accumulation of everything that I have learned during my time in Programming I applied in to this small C# programmed Adventure Game on the Console Interface.
+
+## [Project Bracken](https://github.com/VN-That1Guy/VN-BrackenCave-WPF)
+![Image of Project Bracken-1](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-05%20002919.png)
+![Image of Project Bracken-2](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-05%20003738.png)
+This is another accumulation of everything that I have learned in Programming II applied to this Final Project for that class.
+
+## [Character Creator App](https://github.com/VN-That1Guy/Character_Creator_App)
+![Image of The Character Creator App](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20001229.png)
+I forgot to show this here back on 2021. This was a Final Project assignment for the first programming class.
+
+## [Card Games](https://github.com/VN-That1Guy/VN-CardGames)
+![Image of Card Game Menu](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000318.png)
+A console application that I tried my best in making a simple game from scratch, three card games coded around commonalities
+![Image of Card Game 1](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000338.png)
+![Image of Card Game 2](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000349.png)
+![Image of Card Game 3](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000407.png)
+![Image of Card Game 3 part 2](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/refs/heads/main/images/Screenshot%202024-12-06%20000416.png)
 
 ## [Study Application](https://github.com/VN-That1Guy/VN-ProgrammingStudyApplicationFinal)
 ![Image of Study Application](https://raw.githubusercontent.com/VN-That1Guy/VN-That1Guy.github.io/1aa3d6dd764c970de1d180f18985adc0c09d08a7/images/StudyApplication.jpg)
