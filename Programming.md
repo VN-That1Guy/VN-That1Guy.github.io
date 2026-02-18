@@ -1,6 +1,8 @@
+---
 layout: page
-title: "programming"
-permalink: https://github.com/VN-That1Guy/VN-That1Guy.github.io/programming
+title: programming
+permalink: /programming/
+---
 
 # Programming Portfolio of Vinh Nguyen
 A collection of projects made from programming classes I and II

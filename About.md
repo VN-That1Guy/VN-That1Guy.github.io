@@ -1,6 +1,8 @@
+---
 layout: page
-title: "about"
-permalink: https://github.com/VN-That1Guy/VN-That1Guy.github.io/about
+title: about
+permalink: /about/
+---
 
 # About
     Hi there, I am a game designer. It is a broad role but I prefer to be on the programming/scripting side of designing for gameplay. I tackle with art assets if I need to blockout something for game prototypes. I am all about game feel or juiciness.
